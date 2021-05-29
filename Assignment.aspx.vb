@@ -49,9 +49,9 @@ Partial Class Assignment
 
                 RepAssign.DataSource = dt
                 RepAssign.DataBind()
-                completeAssignment()
-            End If
 
+            End If
+            completeAssignment()
            
             
 
